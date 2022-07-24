@@ -1,0 +1,71 @@
+Course Code,Course_Name,Title of the course,Meant for,Instructors,Year,Size
+ECE105,BE,Basic Electronics,All + Repeaters,"Santosh Shah, R Tomar, Kanjlochan Jena, Deepak Nair",I,500
+CSE104,CP,Computer Programming,All + Repeaters,"Poonam Gera, Vibhor Kant, Sudheer Sharma, Anukriti Bansal",I,500
+ENG105(B),TCE,Technical Communication in English,All + Repeaters,"Manju Dhariwal, Usha Kanoongo, Payel Pal",I,500
+MTH102,M-I,Mathematics I,All + Repeaters,"S K Gauttam, Manish Garg, Dheeerendra Mishra, Trivedi Harsh Chandrakant",I,500
+PHY102,CLP,Classical Physics,All + Repeaters,"Pomitha Ghoshal, Amit Neogi, G D Sharma, Subhayan Biswas",I,500
+MTH213,M-III,Mathematics III,All,"M K Kadalbajoo, Pratibha Garg, MTHTBD1, MTHTBD2",II,500
+CSE226,AP,Advanced Programming,CSE+CCE,"Mukesh Jadon, Puneet Jain",II,350
+CSE227,IDBMS,Information and Database Management Systems,CSE+CCE,"Rajbir Kaur, Nirmal S",II,350
+CSE216,COA,Computer Organization and Architectures,CSE+CCE,"Preety Singh, Bharavi Mishra",II,350
+CSE328,AI,Artificial Intelligence,CSE+CCE,"Kshitiz Verma, Puneet Jain",III,350
+CSE327,IDS,Introduction to Data Science,CSE+CCE,"Subrat K Dash, Sakthi Balan",III,350
+CSE321,SWE,Software Engineering,CSE+CCE,"Vikas Bajpai, R P Gorthi",III,350
+ECE217,S&S,Signal and Systems,ECE+CCE,"Navneet Upadhyay, Nikhil Sharma",II,250
+ECE214,DCS,Digital Circuits and Systems,ECE+CCE,"Santosh Shah, Kapil Jainwal",II,250
+CSE228,OTA,Optimization Techniques and Applications,CSE,"Jayprakash Kar,Indrajeet singh",II,250
+CSE329,CS,Computer Security,CSE,"Hemant Mehta, Shweta Bhandari",III,250
+ECE325,DC,Digital Communication,ECE+CCE,"S Debnath, Nikhil Sharma",III,250
+ECE326,DSP,Digital Signal Processing,ECE+CCE,"Divyang Rawal, Navneet Upadhyay",III,250
+HSS203,PTS,"Psychology, Technology and Society",ECE+MTRE,"Rajbala Singh, Anu Malik",III,250
+ECE216,SEMI,Semiconductor Devices and Circuits,ECE,Kanjlochan Jena,II,150
+ECE332,EEM,Engineering Electromagnetics,ECE,"Deepak Nair, R Tomar",II,150
+ECE331,MICROI,Microprocessor & Interface,ECE,Abhishek Sharma,III,150
+HSS204,EFE,Economics for Engineers,CCE+ME,S S Nehra,III,150
+HSS204,EFE,Economics for Engineers,1st 50% of CSE,S S Nehra,II,125
+HSS203,PTS,"Psychology, Technology and Society",2nd 50% of CSE,"Rajbala Singh, Anu Malik",II,125
+MME210,MEET,Modern Electrical and Elelctronics Technologies,ME,Gaurav Chaterjee,II,100
+MME205,MOS,Mechanics of Solids,ME,A K Dargar,II,100
+MME211,MT 1,Manufacturing Technology 1,ME,"Manoj Kumar, Mayank Modak",II,100
+MME209,ET,Engineering Thermodynamics,ME,K K Khatri,II,100
+MME212,IEM,Industrial Engineering and Management,ME,"Vikram Sharma, Deepak Unnune",II,100
+CSE3171,IS&M,Introduction to Simulation & Modeling,PE CSE,Sudheer Sharma,III,100
+CSE3082,IR,Information Retreval,PE CSE,Mukesh Jadon,III,100
+CSE3181,IMAD,Introduction to mobile Application Development,PE CSE,Shweta Bhandari,III,100
+CSE3042,UMC,Unconventional Models of Computation,PE CSE,Sakthi Balan,III,100
+CSE3101,GAA,Genetic Algorithms and Applications,PE CSE,Vibhor Kant,III,100
+CSE3191,MPA,Multimedia Processing and Applications,PE CSE,Anukriti Bansal,III,100
+ECE3031,IGCN,Introduction to Green Communication and Networking,PE ECE,Purnendu Karmakar,III,100
+ECE3021,EMPS,Electrical Machines & Power Systems,PE ECE,R Tomar,III,100
+MME4031,ICHEM,Industrial Chemistry,PE ME,Arpi Majumder,III,100
+MME3032,UMP,Unconverntional Machine Process,PE ME,Deepak Unnune,III,100
+MME3031,MSI,Mechatronics System Interface,Compulsory PE ME (MTRE),Mohit Makker,III,100
+MME3041,VD,Vehicle Dynamics,Compulsory PE ME (AT),Prabin Kumar Jha,III,100
+CSE3171,FNFT,Functional and Non Functional Testing,PE CSE+CCE,"Ravi P Gorthi, Vikas Bajpai",IV,100
+CSE4081,CC,Cloud Computing,PE CSE+CCE,Hemant Mehta,IV,100
+CSE4111,CPSDS,Cyber-Physical Systems: Design & Security,PE CSE+CCE,Rajul Banerjee,IV,100
+CSE4011,DM,Data Mining,PE CSE+CCE,Subrat K Dash,IV,100
+CSE3021,RTS,Real Time Systems,PE CSE+CCE,Sunil Kumar,IV,100
+CSE4121,DL,Deep Learning,PE CSE+CCE,Kshitiz Verma,IV,100
+CSE4131,IIOT,Introduction to Internet of Things (Mooc Course in lieu of PES),PE CSE+CCE,"Rajbir K, Sunil K",IV,100
+CSE4141,BADUC,Blockchain Architecture Design and Use- cases (Mooc Course in lieu of PES),PE CSE+CCE,Hemant Mehta,IV,100
+ECE4021,MDC,Modern Digital Communication,PE ECE+CCE,"R Gangopadhyay, S Debnath",IV,100
+ECE3051,ITC,Informatin Theory and Coding,PE ECE+CCE,"Joyeeta S, Divyang R",IV,100
+ECE4121,DFT,Design for Testability,PE ECE+CCE,Kusum Lata,IV,100
+ECE4141,IIP,Introduction to Image Processing,PE ECE+CCE,Joyeeta S,IV,100
+MME3041,RFE,Radio Frequency Engineering,PE ECE+CCE,R Tomar,IV,100
+ECE4052,AVLSIC,Analog VLSI Circuits,PE ECE+CCE,Kapil Jainwal,IV,100
+MME4121,ATE,Applied Thermodyamics Engineering,PE ME+MTRE,Mayank Modak,IV,100
+MME4021,CFD,Computational Fluid Dynamics,PE ME+MTRE,"K K Khatri, Deepak Selva Kumar",IV,100
+MME4101,MVIB,Mechanical Vibration,PE ME+MTRE,A K Dargar,IV,100
+MME4111,AMOS,Advance Mechanics of Solids,PE ME+MTRE,Manoj Kumar,IV,100
+ECE3032,AUTOSAR,Autosar and Infotainment,OE All,Abhishek Sharma,IV,100
+HSS4081,ECLSA,Ethnic Conflict: Literature and South Asia,OE All,Narendra Kumar,IV,100
+HSS3081,TSAI,The SELF: Aspects and Implications,OE All,Rajbala S,IV,100
+HSS4151,CIWW,Contemporary Indian Women Writer,OE All,Payel Pal,IV,100
+HSS4111,BFSS,Basics of Finance and Soft Skills,OE All,A P Singh,IV,100
+PHY4081,SBA,Superconductivity: Basics and Applications,OE All,Nabyendu Das,IV,100
+PHY4091,IBP,Introduction to Biophysics,OE All,Ashok Garai,IV,100
+PHY4101,QCQI,Quantum Computing and Quantum Informatiop,OE All,Rakesh Tibrewala,IV,100
+MTH4011,ISP,Introduction to Stochastic Processes,OE All,Sunil Kumar Gauttam,IV,100
+MTH4021,OPTI,Optimization,OE All,Somnath Maiti,IV,100
